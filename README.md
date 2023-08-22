@@ -1,17 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajkumar</h1>
 <h3 align="center">Passionate about the limitless possibilities of artificial intelligence, machine learning and neuroscience, I am a Neuroscience enthusiast dedicated to exploring the frontiers of technology. With a strong background in computer science and a keen interest in data analysis and pattern recognition, I strive to leverage AI algorithms to solve complex problems and drive innovation. From developing intelligent systems to exploring deep learning models, I am constantly seeking opportunities to expand my knowledge and apply it to real-world challenges. Through my GitHub projects and active engagement in the developer community, I aim to inspire and collaborate with like-minded individuals to push the boundaries of AI and shape a smarter future</h3>
 
-- 🔭 I’m currently working on **.**
+- 🔭 I’m currently working on **Neural lesions and cs50x**
 
-- 🌱 I’m currently learning **.**
+- 🌱 I’m currently learning **Machine learning, Data Structurs and algorithms**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
 - 📝 I regularly write articles on [link](link)
 
-- 💬 Ask me about **.**
+- 💬 Ask me about **Neuroscience, Tech and Biology :)**
 
-- 📫 How to reach me **email**
+- 📫 How to reach me **shalemrajkumar7@gmail.com**
 
 - 📄 Know about my experiences [link](link)
 
