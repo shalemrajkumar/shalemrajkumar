@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rajkumar</h1>
-<h3 align="center">I'm a final year undergraduate in Indian Institute of Technology Kanpur, passionate about the limitless possibilities of artificial intelligence, machine learning and neuroscience, I am a Neuroscience enthusiast dedicated to exploring the frontiers of technology. With a strong background in computer science and a keen interest in data analysis and pattern recognition, I strive to leverage AI algorithms to solve complex problems and drive innovation. From developing intelligent systems to exploring deep learning models, I am constantly seeking opportunities to expand my knowledge and apply it to real-world challenges. Through my GitHub projects and active engagement in the developer community, I aim to inspire and collaborate with like-minded individuals to push the boundaries of AI and shape a smarter future</h3>
+
 
 - 🔭 I’m currently working on **Neural lesions and cs50x**
 
