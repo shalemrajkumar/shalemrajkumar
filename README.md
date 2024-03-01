@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [link](link)
 
-- 💬 Ask me about **Neuroscience, Tech and Biology :)**
+- 💬 Ask me about **Neuroscience, Computer Science and Bio :)**
 
 - 📫 How to reach me **shalemrajkumar7@gmail.com**
 
