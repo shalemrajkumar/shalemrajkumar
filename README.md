@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 📝 I regularly write articles on [link](link)
+- 📝 I occationally write articles on [link](https://shalemrajkumar.github.io/blog/)
 
 - 💬 Ask me about **Neuroscience, Computer Science and Biology :)**
 
