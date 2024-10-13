@@ -6,15 +6,15 @@
 
 <!--- 🌱 I’m currently learning ** ** -->
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](https://github.com/shalemrajkumar?tab=repositories)
 
-- 📝 I occasionally write articles on [link](https://shalemrajkumar.github.io/blog/)
+- 📝 I occasionally write articles on [open_zettelkasten](https://shalemrajkumar.github.io/blog/)
 
 - 💬 Ask me about **Neuroscience, Computer Science and Biology :)**
 
 - 📫 How to reach me **shalemrajkumar7@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [in here](https://shalemrajkumar.github.io/about/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
