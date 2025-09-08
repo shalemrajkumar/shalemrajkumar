@@ -1,12 +1,10 @@
-<!--<h2 align="center">👋 Hello! I'm Rajkumar.</h2> -->
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/shalemrajkumar/shalemrajkumar/master/gif/Hi.gif" width="30px">, I'm Rajkumar</h2>
-<!--<h3 align="center"> I'm a final year undergraduate in Indian Institute of Technology Kanpur, passionate about the limitless possibilities of artificial intelligence, machine learning and neuroscience, I am a Neuroscience enthusiast dedicated to exploring the frontiers of technology. With a strong background in computer science and a keen interest in data analysis and pattern recognition, I strive to leverage AI algorithms to solve complex problems and drive innovation. From developing intelligent systems to exploring deep learning models, I am constantly seeking opportunities to expand my knowledge and apply it to real-world challenges. Through my GitHub projects and active engagement in the developer community, I aim to inspire and collaborate with like-minded individuals to push the boundaries of AI and shape a smarter future </h3> -->
 
 - 🔭 I’m currently working on **associative memory of Drosophila melanogaster**
 
 <!--- 🌱 I’m currently learning ** ** -->
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/shalemrajkumar?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/shalemrajkumar?tab=repositories) and [personal webpage](https://shalemrajkumar.github.io/bio/#current-projects)
 
 - 📝 I occasionally write articles on [open_zettelkasten](https://shalemrajkumar.github.io/blog/)
 
@@ -14,7 +12,7 @@
 
 - 📫 How to reach me **shalemrajkumar7@gmail.com**
 
-- 📄 Know about my experiences [in here](https://shalemrajkumar.github.io/about/)
+- 📄 Know about my experiences [in here](https://shalemrajkumar.github.io/bio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +28,6 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
