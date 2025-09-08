@@ -64,14 +64,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalemrajkumar&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<!-- ### Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=shalemrajkumar&show_icons=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="shalemrajkumar" /></p>
-
-
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
 
 <!-- GITHUB ACTIVITY GRAPH -->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shalem Raj's Activity Graph" src="https://activity-graph.vercel.app/graph?username=shalemrajkumar&theme=github-compact&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!-- ### Streak stats -->
+
+<center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shalemrajkumar&theme=solarized-dark&border_radius=&background=1D1F21" alt="GitHub Streak" /></a>
 
 
