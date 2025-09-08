@@ -53,9 +53,6 @@
 
 <!-- ## Stats from GitHub -->
 
-<!-- ### old stats template
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalemrajkumar&show_icons=true&locale=en" alt="shalemrajkumar" /></p> -->
-
 <a href="https://github.com/shalemrajkumar/shalemrajkumar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalemrajkumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="Shalem Raj's GitHub Stats" />
 </a>
