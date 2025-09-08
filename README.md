@@ -54,6 +54,9 @@
 <!-- ### old stats template
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalemrajkumar&show_icons=true&locale=en" alt="shalemrajkumar" /></p> -->
 
+
+<div align="center">
+
 <a href="https://github.com/shalemrajkumar/shalemrajkumar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalemrajkumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=268bd2&bg_color=1d1f21" alt="Shalem Raj's GitHub Stats" />
 </a>
@@ -63,6 +66,8 @@
 <a href="https://github.com/shalemrajkumar/shalemrajkumar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalemrajkumar&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+</div>
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
 
