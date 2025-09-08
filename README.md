@@ -72,10 +72,12 @@
 
 <!-- ### Streak stats -->
 
-<center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shalemrajkumar&theme=solarized-dark&border_radius=&background=1D1F21" alt="GitHub Streak" /></a>
 
-</center>
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shalemrajkumar&theme=solarized-dark&border_radius=&background=1D1F21" alt="GitHub Streak" /></a>
+
+</div>
 
 
 
