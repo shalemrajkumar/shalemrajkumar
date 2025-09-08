@@ -65,7 +65,7 @@
 </a>
 
 <!-- ### Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalemrajkumar&hide=java,html,Makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="shalemrajkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalemrajkumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="shalemrajkumar" /></p>
 
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
