@@ -21,7 +21,7 @@
 <a href="https://twitter.com/shalemrajkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shalemrajkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shalemrajkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalemrajkumar" height="30" width="40" /></a>
 <a href="https://fb.com/shalemrajkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/sraj.mkv target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
+<a href="https://instagram.com/sraj.mkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/www_rajkumar737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/user0672G/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
 </p>
@@ -46,12 +46,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalemrajkumar&show_icons=true&locale=en&layout=compact" alt="shalemrajkumar" /></p>
-
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub github-readme-stats
 
 <!-- ## Stats from GitHub -->
+
+<!-- ### old stats template
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalemrajkumar&show_icons=true&locale=en" alt="shalemrajkumar" /></p> -->
 
 <a href="https://github.com/shalemrajkumar/shalemrajkumar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalemrajkumar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f75c7e&bg_color=1d1f21" alt="Shalem Raj's GitHub Stats" />
