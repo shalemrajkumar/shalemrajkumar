@@ -47,7 +47,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub github-readme-stats
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
 <!-- ## Stats from GitHub -->
 
@@ -65,7 +65,7 @@
 </a>
 
 <!-- ### Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalemrajkumar&show_icons=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="shalemrajkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.vercel.app/?user=shalemrajkumar&show_icons=true&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="shalemrajkumar" /></p>
 
 
 ## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
