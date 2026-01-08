@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/shalemrajkumar/shalemrajkumar/master/gif/Hi.gif" width="30px">, I'm Rajkumar</h2>
 
-- 🔭 I’m currently working on **associative memory of Drosophila melanogaster**
+- 🔭 I’m currently working on **Recurrent Neural Networks and Spiking Neural Networks**
 
 <!--- 🌱 I’m currently learning ** ** -->
 
@@ -26,7 +26,6 @@
 <a href="https://leetcode.com/u/user0672G/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet" height="30" width="40" /></a>
 </p>
 
----
 
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Languages and tools
 
@@ -49,7 +48,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
----
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
 
@@ -73,8 +71,6 @@
 
 </div>
 
----
-
 
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
 
@@ -93,8 +89,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shalem Raj's Activity Graph" src="https://activity-graph.vercel.app/graph?username=shalemrajkumar&theme=github-compact&bg_color=1F222E&color=F8D866&line=268bd2&point=FFFFFF&hide_border=true" /></a>
 
 
----
-
 ## ✍️ Quote of the Day
 
 <div align="center">
@@ -103,5 +97,4 @@
 
 </div>
 
----
 
