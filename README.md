@@ -76,25 +76,30 @@
 ---
 
 
-## ✍️ Quote of the Day
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Last 31 days stats
 
-<!-- GITHUB ACTIVITY GRAPH -->
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shalem Raj's Activity Graph" src="https://activity-graph.vercel.app/graph?username=shalemrajkumar&theme=github-compact&bg_color=1F222E&color=F8D866&line=268bd2&point=FFFFFF&hide_border=true" /></a>
-
 <!-- ### Streak stats -->
-
 
 <div align="center">
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shalemrajkumar&theme=solarized-dark&border_radius=&background=1D1F21" alt="GitHub Streak" /></a>
+
+</div>
+
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shalem Raj's Activity Graph" src="https://activity-graph.vercel.app/graph?username=shalemrajkumar&theme=github-compact&bg_color=1F222E&color=F8D866&line=268bd2&point=FFFFFF&hide_border=true" /></a>
+
+
+---
+
+## ✍️ Quote of the Day
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
